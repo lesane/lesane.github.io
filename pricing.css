@@ -55,6 +55,8 @@
     font-size: 6em;
     margin: 0.2em 0 0;
     font-weight: 100;
+    display: block;
+    padding-top: 0.2em;
 }
     .pricing-table-price span {
         display: block;
